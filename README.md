@@ -1,5 +1,6 @@
 # LoginSite
 The entrance site to the void.
+
 Link: https://raw.githubusercontent.com/YukiKras/LoginSite/refs/heads/main/index.html
 Download commands:
 ```
